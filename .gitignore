@@ -1,13 +1,38 @@
-.venv/
+# Python
 __pycache__/
-.ipynb_checkpoints/
-
-*.pyc
+*.py[cod]
+*$py.class
 *.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+.eggs/
 
-models/*.pkl
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
 
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
 .vscode/
 .idea/
+*.sublime-project
+*.sublime-workspace
 
-.DS_Store
+# Logs
+*.log
