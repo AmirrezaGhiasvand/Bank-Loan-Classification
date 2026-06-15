@@ -1,3 +1,6 @@
+
+<img width="984" height="484" alt="image" src="https://github.com/user-attachments/assets/146abb80-5108-4b23-b327-36566a7d719e" />
+
 # Bank Personal Loan Prediction
 Predicting **whether a bank customer will accept a personal loan offer** using demographic and financial data, with a focus on handling class imbalance and proper preprocessing.
 
